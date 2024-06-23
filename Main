@@ -1,4 +1,4 @@
-local SOMEXHUB = loadstring(game:HttpGet("https://raw.githubusercontent.com/I-DONT-KNOW-999/Gui-1/main/README.md"))();
+local SOMEXHUB = loadstring(game:HttpGet("https://raw.githubusercontent.com/Iker7747/vs-redux/main/Main%203"))();
 local xNero = SOMEXHUB:Create({Name = "Supbaszz Hub",Size = UDim2.fromOffset(600, 400),Theme = SOMEXHUB.Themes.Dark,Link = "https://github.com/Lenova"})
 
 xNero:Notification({Title = "Welcome Supbaszz Hub",Text = " ❤️ ",Duration = 3})
